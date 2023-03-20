@@ -5,3 +5,5 @@ async function startDB() {
 };
 
 module.exports = startDB;
+
+//usando o mongoose para conectar no mongodb

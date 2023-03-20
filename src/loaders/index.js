@@ -7,3 +7,5 @@ class Loaders {
 };
 
 module.exports = new Loaders();
+
+// iniciando o servidor

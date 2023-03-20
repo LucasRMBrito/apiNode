@@ -15,3 +15,5 @@ routes.put('/products/:id', ProductController.update);
 routes.delete('/products/:id', ProductController.destroy);
 
 module.exports = routes
+
+//criando as rotas

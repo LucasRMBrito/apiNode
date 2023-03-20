@@ -71,3 +71,5 @@ class ProductController {
 }
 
 module.exports = new ProductController();
+
+//criação da classe de produto controller com os métodos
